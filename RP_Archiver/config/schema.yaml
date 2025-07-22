@@ -1,0 +1,18 @@
+EventTypes:
+  - QuestStarted
+  - QuestUpdated
+  - CombatStart
+  - CombatEnd
+  - LootGained
+  - NPCIntroduced
+  - LocationDiscovered
+  - ProphecyOrClue
+  - Decision
+Fields:
+  - timestamp
+  - speaker
+  - short_summary
+  - long_context
+  - related_NPCs
+  - related_locations
+  - related_quests

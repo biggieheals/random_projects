@@ -1,0 +1,312 @@
+[2025-04-02 19:24:55] Hotkey triggered (F11)
+[2025-04-02 19:24:55] Sent 1
+[2025-04-02 19:24:56] Sent a
+[2025-04-02 19:24:56] Sent Space
+[2025-04-02 19:24:57] Sent Left Arrow
+[2025-04-02 19:24:58] Sent Right Arrow
+[2025-04-02 19:24:58] Sent Space again
+[2025-04-02 19:24:59] Pasted (Ctrl+V)
+[2025-04-02 19:24:59] Sent Down Arrow
+[2025-04-02 19:25:00] Sent Space
+[2025-04-02 19:25:01] Sent Right Arrow twice
+[2025-04-02 19:25:02] Sent Down Arrow x6
+[2025-04-02 19:25:03] Final Space - Sequence complete
+[2025-04-02 19:25:20] Hotkey triggered (F11)
+[2025-04-02 19:25:21] Sent 1
+[2025-04-02 19:25:21] Sent a
+[2025-04-02 19:25:25] Sent Space
+[2025-04-02 19:25:25] Sent Left Arrow
+[2025-04-02 19:25:26] Sent Right Arrow
+[2025-04-02 19:25:26] Sent Space again
+[2025-04-02 19:25:27] Pasted (Ctrl+V)
+[2025-04-02 19:25:27] Sent Down Arrow
+[2025-04-02 19:25:28] Sent Space
+[2025-04-02 19:25:29] Sent Right Arrow twice
+[2025-04-02 19:25:30] Sent Down Arrow x6
+[2025-04-02 19:25:31] Final Space - Sequence complete
+[2025-04-02 19:26:02] Hotkey triggered (F11)
+[2025-04-02 19:26:02] Sent 1
+[2025-04-02 19:26:03] Sent a
+[2025-04-02 19:26:03] Sent Space
+[2025-04-02 19:26:07] Sent Left Arrow
+[2025-04-02 19:26:07] Sent Right Arrow
+[2025-04-02 19:26:08] Sent Space again
+[2025-04-02 19:26:09] Pasted (Ctrl+V)
+[2025-04-02 19:26:09] Sent Down Arrow
+[2025-04-02 19:26:10] Sent Space
+[2025-04-02 19:26:11] Sent Right Arrow twice
+[2025-04-02 19:26:12] Sent Down Arrow x6
+[2025-04-02 19:26:13] Final Space - Sequence complete
+[2025-04-02 19:26:32] Hotkey triggered (F11)
+[2025-04-02 19:26:33] Sent 1
+[2025-04-02 19:26:33] Sent a
+[2025-04-02 19:26:34] Sent Space
+[2025-04-02 19:26:38] Sent Left Arrow
+[2025-04-02 19:26:38] Sent Right Arrow
+[2025-04-02 19:26:39] Sent Space again
+[2025-04-02 19:26:39] Pasted (Ctrl+V)
+[2025-04-02 19:26:40] Sent Down Arrow
+[2025-04-02 19:26:40] Sent Space
+[2025-04-02 19:26:41] Sent Right Arrow twice
+[2025-04-02 19:26:43] Sent Down Arrow x6
+[2025-04-02 19:26:43] Final Space - Sequence complete
+[2025-04-02 19:28:22] Hotkey triggered (F11)
+[2025-04-02 19:28:22] Sent 1
+[2025-04-02 19:28:23] Sent a
+[2025-04-02 19:28:23] Sent Space
+[2025-04-02 19:28:27] Sent Left Arrow
+[2025-04-02 19:28:28] Sent Right Arrow
+[2025-04-02 19:28:29] Sent Space again
+[2025-04-02 19:28:30] Pasted (Ctrl+V)
+[2025-04-02 19:28:31] Sent Down Arrow
+[2025-04-02 19:28:33] Sent Space
+[2025-04-02 19:28:35] Sent Right Arrow twice
+[2025-04-02 19:28:36] Sent Down Arrow x6
+[2025-04-02 19:28:37] Final Space - Sequence complete
+[2025-04-02 19:29:17] Hotkey triggered (F11)
+[2025-04-02 19:29:18] Sent 1
+[2025-04-02 19:29:18] Sent a
+[2025-04-02 19:29:19] Sent Space
+[2025-04-02 19:29:22] Sent Left Arrow
+[2025-04-02 19:29:23] Sent Right Arrow
+[2025-04-02 19:29:25] Sent Space again
+[2025-04-02 19:29:25] Pasted (Ctrl+V)
+[2025-04-02 19:29:26] Sent Down Arrow
+[2025-04-02 19:29:27] Sent Space
+[2025-04-02 19:29:32] Sent Right Arrow twice
+[2025-04-02 19:29:34] Sent Down Arrow x6
+[2025-04-02 19:29:35] Final Space - Sequence complete
+[2025-04-02 19:30:13] Hotkey triggered (F11)
+[2025-04-02 19:30:14] Sent 1
+[2025-04-02 19:30:14] Sent a
+[2025-04-02 19:30:15] Sent Space
+[2025-04-02 19:30:18] Sent Left Arrow
+[2025-04-02 19:30:19] Sent Right Arrow
+[2025-04-02 19:30:21] Sent Space again
+[2025-04-02 19:30:21] Pasted (Ctrl+V)
+[2025-04-02 19:30:22] Sent Down Arrow
+[2025-04-02 19:30:23] Sent Space
+[2025-04-02 19:30:28] Sent Right Arrow twice
+[2025-04-02 19:30:30] Sent Down Arrow x6
+[2025-04-02 19:30:31] Final Space - Sequence complete
+[2025-04-02 19:57:05] Hotkey triggered (F11)
+[2025-04-02 19:57:06] Sent 1
+[2025-04-02 19:57:06] Sent a
+[2025-04-02 19:57:07] Sent Space
+[2025-04-02 19:57:10] Sent Left Arrow
+[2025-04-02 19:57:11] Sent Right Arrow
+[2025-04-02 19:57:12] Sent Space again
+[2025-04-02 19:57:13] Pasted (Ctrl+V)
+[2025-04-02 19:57:14] Sent Down Arrow
+[2025-04-02 19:57:15] Sent Space
+[2025-04-02 19:57:20] Sent Right Arrow twice
+[2025-04-02 19:57:22] Sent Down Arrow x6
+[2025-04-02 19:57:22] Final Space - Sequence complete
+[2025-04-02 20:00:22] Hotkey triggered (F11)
+[2025-04-02 20:00:22] Sent 1
+[2025-04-02 20:00:23] Sent a
+[2025-04-02 20:00:23] Sent Space
+[2025-04-02 20:00:27] Sent Left Arrow
+[2025-04-02 20:00:28] Sent Right Arrow
+[2025-04-02 20:00:29] Sent Space again
+[2025-04-02 20:00:30] Pasted (Ctrl+V)
+[2025-04-02 20:00:30] Sent Down Arrow
+[2025-04-02 20:00:32] Sent Space
+[2025-04-02 20:00:37] Sent Right Arrow twice
+[2025-04-02 20:00:39] Sent Down Arrow x6
+[2025-04-02 20:00:39] Final Space - Sequence complete
+[2025-04-02 20:00:51] Hotkey triggered (F11)
+[2025-04-02 20:00:52] Sent 1
+[2025-04-02 20:00:52] Sent a
+[2025-04-02 20:00:53] Sent Space
+[2025-04-02 20:00:56] Sent Left Arrow
+[2025-04-02 20:00:57] Sent Right Arrow
+[2025-04-02 20:00:59] Sent Space again
+[2025-04-02 20:00:59] Pasted (Ctrl+V)
+[2025-04-02 20:01:00] Sent Down Arrow
+[2025-04-02 20:01:01] Sent Space
+[2025-04-02 20:01:06] Sent Right Arrow twice
+[2025-04-02 20:01:08] Sent Down Arrow x6
+[2025-04-02 20:01:09] Final Space - Sequence complete
+[2025-04-02 20:04:08] Hotkey triggered (F11)
+[2025-04-02 20:04:08] Sent 1
+[2025-04-02 20:04:09] Sent a
+[2025-04-02 20:04:09] Sent Space
+[2025-04-02 20:04:13] Sent Left Arrow
+[2025-04-02 20:04:13] Sent Right Arrow
+[2025-04-02 20:04:15] Sent Space again
+[2025-04-02 20:04:16] Pasted (Ctrl+V)
+[2025-04-02 20:04:16] Sent Down Arrow
+[2025-04-02 20:04:18] Sent Space
+[2025-04-02 20:04:23] Sent Right Arrow twice
+[2025-04-02 20:04:24] Sent Down Arrow x6
+[2025-04-02 20:04:25] Final Space - Sequence complete
+[2025-04-02 20:28:59] Hotkey triggered (F11)
+[2025-04-02 20:29:00] Sent 1
+[2025-04-02 20:29:00] Sent a
+[2025-04-02 20:29:01] Sent Space
+[2025-04-02 20:29:05] Sent Left Arrow
+[2025-04-02 20:29:05] Sent Right Arrow
+[2025-04-02 20:29:07] Sent Space again
+[2025-04-02 20:29:07] Pasted (Ctrl+V)
+[2025-04-02 20:29:08] Sent Down Arrow
+[2025-04-02 20:29:09] Sent Space
+[2025-04-02 20:29:15] Sent Right Arrow twice
+[2025-04-02 20:29:16] Sent Down Arrow x6
+[2025-04-02 20:29:17] Final Space - Sequence complete
+[2025-04-02 20:33:00] Hotkey triggered (F11)
+[2025-04-02 20:33:01] Sent 1
+[2025-04-02 20:33:02] Sent a
+[2025-04-02 20:33:02] Sent Space
+[2025-04-02 20:33:06] Sent Left Arrow
+[2025-04-02 20:33:06] Sent Right Arrow
+[2025-04-02 20:33:08] Sent Space again
+[2025-04-02 20:33:08] Pasted (Ctrl+V)
+[2025-04-02 20:33:09] Sent Down Arrow
+[2025-04-02 20:33:11] Sent Space
+[2025-04-02 20:33:16] Sent Right Arrow twice
+[2025-04-02 20:33:17] Sent Down Arrow x6
+[2025-04-02 20:33:18] Final Space - Sequence complete
+[2025-04-02 21:02:38] Hotkey triggered (F11)
+[2025-04-02 21:02:39] Sent 1
+[2025-04-02 21:02:40] Sent a
+[2025-04-02 21:02:40] Sent Space
+[2025-04-02 21:02:44] Sent Left Arrow
+[2025-04-02 21:02:44] Sent Right Arrow
+[2025-04-02 21:02:46] Sent Space again
+[2025-04-02 21:02:46] Pasted (Ctrl+V)
+[2025-04-02 21:02:47] Sent Down Arrow
+[2025-04-02 21:02:49] Sent Space
+[2025-04-02 21:02:54] Sent Right Arrow twice
+[2025-04-02 21:02:55] Sent Down Arrow x6
+[2025-04-02 21:02:56] Final Space - Sequence complete
+[2025-04-02 22:34:22] Hotkey triggered (F11)
+[2025-04-02 22:34:22] Sent 1
+[2025-04-02 22:34:23] Sent a
+[2025-04-02 22:34:24] Sent Space
+[2025-04-02 22:34:27] Sent Left Arrow
+[2025-04-02 22:34:28] Sent Right Arrow
+[2025-04-02 22:34:29] Sent Space again
+[2025-04-02 22:34:30] Pasted (Ctrl+V)
+[2025-04-02 22:34:30] Sent Down Arrow
+[2025-04-02 22:34:32] Sent Space
+[2025-04-02 22:34:37] Sent Right Arrow twice
+[2025-04-02 22:34:39] Sent Down Arrow x6
+[2025-04-02 22:34:39] Final Space - Sequence complete
+[2025-04-02 22:57:18] Hotkey triggered (F11)
+[2025-04-02 22:57:19] Sent 1
+[2025-04-02 22:57:19] Sent a
+[2025-04-02 22:57:20] Sent Space
+[2025-04-02 22:57:23] Sent Left Arrow
+[2025-04-02 22:57:23] Sent Right Arrow
+[2025-04-02 22:57:25] Sent Space again
+[2025-04-02 22:57:26] Pasted (Ctrl+V)
+[2025-04-02 22:57:26] Sent Down Arrow
+[2025-04-02 22:57:28] Sent Space
+[2025-04-02 22:57:32] Sent Right Arrow twice
+[2025-04-02 22:57:34] Sent Down Arrow x6
+[2025-04-02 22:57:34] Final Space - Sequence complete
+[2025-04-02 22:59:17] Hotkey triggered (F11)
+[2025-04-02 22:59:17] Sent 1
+[2025-04-02 22:59:18] Sent a
+[2025-04-02 22:59:19] Sent Space
+[2025-04-02 22:59:22] Sent Left Arrow
+[2025-04-02 22:59:22] Sent Right Arrow
+[2025-04-02 22:59:24] Sent Space again
+[2025-04-02 22:59:24] Pasted (Ctrl+V)
+[2025-04-02 22:59:25] Sent Down Arrow
+[2025-04-02 22:59:26] Sent Space
+[2025-04-02 22:59:31] Sent Right Arrow twice
+[2025-04-02 22:59:32] Sent Down Arrow x6
+[2025-04-02 22:59:33] Final Space - Sequence complete
+[2025-04-02 23:01:54] Hotkey triggered (F11)
+[2025-04-02 23:01:54] Sent 1
+[2025-04-02 23:01:55] Sent a
+[2025-04-02 23:01:56] Sent Space
+[2025-04-02 23:01:59] Sent Left Arrow
+[2025-04-02 23:01:59] Sent Right Arrow
+[2025-04-02 23:02:01] Sent Space again
+[2025-04-02 23:02:01] Pasted (Ctrl+V)
+[2025-04-02 23:02:02] Sent Down Arrow
+[2025-04-02 23:02:04] Sent Space
+[2025-04-02 23:02:08] Sent Right Arrow twice
+[2025-04-02 23:02:09] Sent Down Arrow x6
+[2025-04-02 23:02:10] Final Space - Sequence complete
+[2025-04-02 23:05:18] Hotkey triggered (F11)
+[2025-04-02 23:05:19] Sent 1
+[2025-04-02 23:05:19] Sent a
+[2025-04-02 23:05:20] Sent Space
+[2025-04-02 23:05:23] Sent Left Arrow
+[2025-04-02 23:05:24] Sent Right Arrow
+[2025-04-02 23:05:25] Sent Space again
+[2025-04-02 23:05:26] Pasted (Ctrl+V)
+[2025-04-02 23:05:26] Sent Down Arrow
+[2025-04-02 23:05:28] Sent Space
+[2025-04-02 23:05:32] Sent Right Arrow twice
+[2025-04-02 23:05:34] Sent Down Arrow x6
+[2025-04-02 23:05:34] Final Space - Sequence complete
+[2025-04-11 00:59:49] Hotkey triggered (F11)
+[2025-04-11 00:59:50] Sent 1
+[2025-04-11 00:59:51] Sent a
+[2025-04-11 00:59:51] Sent Space
+[2025-04-11 00:59:54] Sent Left Arrow
+[2025-04-11 00:59:55] Sent Right Arrow
+[2025-04-11 00:59:56] Sent Space again
+[2025-04-11 00:59:57] Pasted (Ctrl+V)
+[2025-04-11 00:59:58] Sent Down Arrow
+[2025-04-11 00:59:59] Sent Space
+[2025-04-11 01:00:03] Sent Right Arrow twice
+[2025-04-11 01:00:05] Sent Down Arrow x6
+[2025-04-11 01:00:05] Final Space - Sequence complete
+[2025-04-11 01:09:55] Hotkey triggered (F11)
+[2025-04-11 01:09:55] Sent 1
+[2025-04-11 01:09:56] Sent a
+[2025-04-11 01:09:56] Sent Space
+[2025-04-11 01:09:59] Sent Left Arrow
+[2025-04-11 01:10:00] Sent Right Arrow
+[2025-04-11 01:10:02] Sent Space again
+[2025-04-11 01:10:02] Pasted (Ctrl+V)
+[2025-04-11 01:10:03] Sent Down Arrow
+[2025-04-11 01:10:04] Sent Space
+[2025-04-11 01:10:08] Sent Right Arrow twice
+[2025-04-11 01:10:10] Sent Down Arrow x6
+[2025-04-11 01:10:11] Final Space - Sequence complete
+[2025-04-11 01:12:43] Hotkey triggered (F11)
+[2025-04-11 01:12:44] Sent 1
+[2025-04-11 01:12:44] Sent a
+[2025-04-11 01:12:45] Sent Space
+[2025-04-11 01:12:48] Sent Left Arrow
+[2025-04-11 01:12:48] Sent Right Arrow
+[2025-04-11 01:12:50] Sent Space again
+[2025-04-11 01:12:50] Pasted (Ctrl+V)
+[2025-04-11 01:12:51] Sent Down Arrow
+[2025-04-11 01:12:53] Sent Space
+[2025-04-11 01:12:57] Sent Right Arrow twice
+[2025-04-11 01:12:58] Sent Down Arrow x6
+[2025-04-11 01:12:59] Final Space - Sequence complete
+[2025-04-11 01:14:08] Hotkey triggered (F11)
+[2025-04-11 01:14:08] Sent 1
+[2025-04-11 01:14:09] Sent a
+[2025-04-11 01:14:09] Sent Space
+[2025-04-11 01:14:12] Sent Left Arrow
+[2025-04-11 01:14:13] Sent Right Arrow
+[2025-04-11 01:14:14] Sent Space again
+[2025-04-11 01:14:15] Pasted (Ctrl+V)
+[2025-04-11 01:14:16] Sent Down Arrow
+[2025-04-11 01:14:17] Sent Space
+[2025-04-11 01:14:21] Sent Right Arrow twice
+[2025-04-11 01:14:23] Sent Down Arrow x6
+[2025-04-11 01:14:24] Final Space - Sequence complete
+[2025-04-11 01:30:52] Hotkey triggered (F11)
+[2025-04-11 01:30:53] Sent 1
+[2025-04-11 01:30:54] Sent a
+[2025-04-11 01:30:54] Sent Space
+[2025-04-11 01:30:57] Sent Left Arrow
+[2025-04-11 01:30:58] Sent Right Arrow
+[2025-04-11 01:30:59] Sent Space again
+[2025-04-11 01:31:00] Pasted (Ctrl+V)
+[2025-04-11 01:31:01] Sent Down Arrow
+[2025-04-11 01:31:02] Sent Space
+[2025-04-11 01:31:06] Sent Right Arrow twice
+[2025-04-11 01:31:08] Sent Down Arrow x6
+[2025-04-11 01:31:08] Final Space - Sequence complete

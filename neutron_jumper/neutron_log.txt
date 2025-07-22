@@ -1,0 +1,209 @@
+{1:yyyy-MM-dd HH:mm:ss}: Hotkey triggered (F11)
+{1:yyyy-MM-dd HH:mm:ss}: Pressed 1
+{1:yyyy-MM-dd HH:mm:ss}: Pressed a
+{1:yyyy-MM-dd HH:mm:ss}: Pressed Enter
+{1:yyyy-MM-dd HH:mm:ss}: Sequence complete
+{1:yyyy-MM-dd HH:mm:ss}: Hotkey triggered (F11)
+{1:yyyy-MM-dd HH:mm:ss}: Pressed 1
+{1:yyyy-MM-dd HH:mm:ss}: Pressed a
+{1:yyyy-MM-dd HH:mm:ss}: Pressed Enter
+{1:yyyy-MM-dd HH:mm:ss}: Sequence complete
+{1:yyyy-MM-dd HH:mm:ss}: Hotkey triggered (F11)
+{1:yyyy-MM-dd HH:mm:ss}: Pressed 1
+{1:yyyy-MM-dd HH:mm:ss}: Pressed a
+{1:yyyy-MM-dd HH:mm:ss}: Pressed Enter
+{1:yyyy-MM-dd HH:mm:ss}: Sequence complete
+{1:yyyy-MM-dd HH:mm:ss}: Hotkey triggered (F11)
+{1:yyyy-MM-dd HH:mm:ss}: Pressed 1
+{1:yyyy-MM-dd HH:mm:ss}: Pressed a
+{1:yyyy-MM-dd HH:mm:ss}: Pressed Enter
+{1:yyyy-MM-dd HH:mm:ss}: Sequence complete
+{1:yyyy-MM-dd HH:mm:ss}: Hotkey triggered (F11)
+{1:yyyy-MM-dd HH:mm:ss}: Pressed 1
+{1:yyyy-MM-dd HH:mm:ss}: Pressed a
+{1:yyyy-MM-dd HH:mm:ss}: Pressed Enter
+{1:yyyy-MM-dd HH:mm:ss}: Sequence complete
+{1:yyyy-MM-dd HH:mm:ss}: Hotkey triggered (F11)
+{1:yyyy-MM-dd HH:mm:ss}: Pressed 1
+{1:yyyy-MM-dd HH:mm:ss}: Pressed a
+{1:yyyy-MM-dd HH:mm:ss}: Pressed Enter
+{1:yyyy-MM-dd HH:mm:ss}: Sequence complete
+{1:yyyy-MM-dd HH:mm:ss}: Hotkey triggered (F11)
+{1:yyyy-MM-dd HH:mm:ss}: Sent 1
+{1:yyyy-MM-dd HH:mm:ss}: Sent a
+{1:yyyy-MM-dd HH:mm:ss}: Sent Enter
+{1:yyyy-MM-dd HH:mm:ss}: Sequence complete
+{1:yyyy-MM-dd HH:mm:ss}: Hotkey triggered (F11)
+{1:yyyy-MM-dd HH:mm:ss}: Sent 1
+{1:yyyy-MM-dd HH:mm:ss}: Sent a
+{1:yyyy-MM-dd HH:mm:ss}: Sent Enter
+{1:yyyy-MM-dd HH:mm:ss}: Sequence complete
+{1:yyyy-MM-dd HH:mm:ss}: Hotkey triggered (F11)
+{1:yyyy-MM-dd HH:mm:ss}: Sent 1
+{1:yyyy-MM-dd HH:mm:ss}: Sent a
+{1:yyyy-MM-dd HH:mm:ss}: Sent Enter
+{1:yyyy-MM-dd HH:mm:ss}: Sequence complete
+{1:yyyy-MM-dd HH:mm:ss}: Hotkey triggered (F11)
+{1:yyyy-MM-dd HH:mm:ss}: Sent 1
+{1:yyyy-MM-dd HH:mm:ss}: Sent a
+{1:yyyy-MM-dd HH:mm:ss}: Sent Enter
+{1:yyyy-MM-dd HH:mm:ss}: Sequence complete
+{1:yyyy-MM-dd HH:mm:ss}: Hotkey triggered (F11)
+{1:yyyy-MM-dd HH:mm:ss}: Sent 1
+{1:yyyy-MM-dd HH:mm:ss}: Sent a
+{1:yyyy-MM-dd HH:mm:ss}: Sent Enter
+{1:yyyy-MM-dd HH:mm:ss}: Sequence complete
+[2025-04-02 22:36:56] Hotkey triggered (F11)
+[2025-04-02 22:36:57] Sent 1
+[2025-04-02 22:36:57] Sent a
+[2025-04-02 22:36:58] Sent Space
+[2025-04-02 22:37:01] Sent Left Arrow
+[2025-04-02 22:37:01] Sent Right Arrow
+[2025-04-02 22:37:03] Sent Space again
+[2025-04-02 22:37:04] Pasted (Ctrl+V)
+[2025-04-02 22:37:04] Sent Down Arrow
+[2025-04-02 22:37:06] Sent Space
+[2025-04-02 22:37:10] Sent Right Arrow twice
+[2025-04-02 22:37:10] Sent Down Arrow 1
+[2025-04-02 22:37:10] Sent Down Arrow 2
+[2025-04-02 22:37:11] Sent Down Arrow 3
+[2025-04-02 22:37:11] Sent Down Arrow 4
+[2025-04-02 22:37:11] Sent Down Arrow 5
+[2025-04-02 22:37:12] Sent Down Arrow 6
+[2025-04-02 22:37:12] Final Space
+[2025-04-02 22:37:13] Sequence complete
+[2025-04-02 22:38:10] Hotkey triggered (F11)
+[2025-04-02 22:38:11] Sent 1
+[2025-04-02 22:38:12] Sent a
+[2025-04-02 22:38:12] Sent Space
+[2025-04-02 22:38:15] Sent Left Arrow
+[2025-04-02 22:38:16] Sent Right Arrow
+[2025-04-02 22:38:17] Sent Space again
+[2025-04-02 22:38:18] Pasted (Ctrl+V)
+[2025-04-02 22:38:19] Sent Down Arrow
+[2025-04-02 22:38:20] Sent Space
+[2025-04-02 22:38:24] Sent Right Arrow twice
+[2025-04-02 22:38:25] Sent Down Arrow 1
+[2025-04-02 22:38:25] Sent Down Arrow 2
+[2025-04-02 22:38:25] Sent Down Arrow 3
+[2025-04-02 22:38:25] Sent Down Arrow 4
+[2025-04-02 22:38:26] Sent Down Arrow 5
+[2025-04-02 22:38:26] Sent Down Arrow 6
+[2025-04-02 22:38:26] Final Space
+[2025-04-02 22:38:27] Sequence complete
+[2025-04-02 22:41:06] Hotkey triggered (F11)
+[2025-04-02 22:41:06] Sent 1
+[2025-04-02 22:41:07] Sent a
+[2025-04-02 22:41:07] Sent Space
+[2025-04-02 22:41:10] Sent Left Arrow
+[2025-04-02 22:41:11] Sent Right Arrow
+[2025-04-02 22:41:13] Sent Space again
+[2025-04-02 22:41:13] Pasted (Ctrl+V)
+[2025-04-02 22:41:14] Sent Down Arrow
+[2025-04-02 22:41:15] Sent Space
+[2025-04-02 22:41:19] Sent Right Arrow twice
+[2025-04-02 22:41:20] Sent Down Arrow 1
+[2025-04-02 22:41:20] Sent Down Arrow 2
+[2025-04-02 22:41:20] Sent Down Arrow 3
+[2025-04-02 22:41:21] Sent Down Arrow 4
+[2025-04-02 22:41:21] Sent Down Arrow 5
+[2025-04-02 22:41:21] Sent Down Arrow 6
+[2025-04-02 22:41:22] Final Space
+[2025-04-02 22:41:22] Sequence complete
+[2025-04-02 22:48:57] Hotkey triggered (F11)
+[2025-04-02 22:48:57] Sent 1
+[2025-04-02 22:48:58] Sent a
+[2025-04-02 22:48:59] Sent Space
+[2025-04-02 22:49:02] Sent Left Arrow
+[2025-04-02 22:49:02] Sent Right Arrow
+[2025-04-02 22:49:04] Sent Space again
+[2025-04-02 22:49:04] Pasted (Ctrl+V)
+[2025-04-02 22:49:05] Sent Down Arrow
+[2025-04-02 22:49:06] Sent Space
+[2025-04-02 22:49:11] Sent Right Arrow twice
+[2025-04-02 22:49:11] Sent Down Arrow 1
+[2025-04-02 22:49:11] Sent Down Arrow 2
+[2025-04-02 22:49:11] Sent Down Arrow 3
+[2025-04-02 22:49:12] Sent Down Arrow 4
+[2025-04-02 22:49:12] Sent Down Arrow 5
+[2025-04-02 22:49:12] Sent Down Arrow 6
+[2025-04-02 22:49:13] Final Space
+[2025-04-02 22:49:14] Sequence complete
+[2025-04-02 22:52:34] Hotkey triggered (F11)
+[2025-04-02 22:52:35] Sent 1
+[2025-04-02 22:52:36] Sent a
+[2025-04-02 22:52:36] Sent Space
+[2025-04-02 22:52:39] Sent Left Arrow
+[2025-04-02 22:52:40] Sent Right Arrow
+[2025-04-02 22:52:41] Sent Space again
+[2025-04-02 22:52:42] Pasted (Ctrl+V)
+[2025-04-02 22:52:43] Sent Down Arrow
+[2025-04-02 22:52:44] Sent Space
+[2025-04-02 22:52:48] Sent Right Arrow twice
+[2025-04-02 22:52:48] Sent Down Arrow 1
+[2025-04-02 22:52:49] Sent Down Arrow 2
+[2025-04-02 22:52:49] Sent Down Arrow 3
+[2025-04-02 22:52:49] Sent Down Arrow 4
+[2025-04-02 22:52:50] Sent Down Arrow 5
+[2025-04-02 22:52:50] Sent Down Arrow 6
+[2025-04-02 22:52:50] Final Space
+[2025-04-02 22:52:51] Sequence complete
+[2025-04-11 01:43:57] Hotkey triggered (F11)
+[2025-04-11 01:43:57] Sent 1
+[2025-04-11 01:43:58] Sent a
+[2025-04-11 01:43:58] Sent Space
+[2025-04-11 01:44:01] Sent Left Arrow
+[2025-04-11 01:44:02] Sent Right Arrow
+[2025-04-11 01:44:04] Sent Space again
+[2025-04-11 01:44:04] Pasted (Ctrl+V)
+[2025-04-11 01:44:05] Sent Down Arrow
+[2025-04-11 01:44:06] Sent Space - Jump should be plotting now
+[2025-04-11 01:44:06] Starting mouse/Esc sequence...
+[2025-04-11 01:44:07] Screen center at: 1280, 720
+[2025-04-11 01:44:10] Mouse wiggled near center
+[2025-04-11 01:44:10] Pressing and holding LButton...
+[{1:yyyy-MM-dd HH:mm:ss}] Hotkey triggered (F11)
+[{1:yyyy-MM-dd HH:mm:ss}] Sent 1
+[{1:yyyy-MM-dd HH:mm:ss}] Sent a
+[{1:yyyy-MM-dd HH:mm:ss}] Sent Space
+[{1:yyyy-MM-dd HH:mm:ss}] Sent Left Arrow
+[{1:yyyy-MM-dd HH:mm:ss}] Sent Right Arrow
+[{1:yyyy-MM-dd HH:mm:ss}] Sent Space again
+[{1:yyyy-MM-dd HH:mm:ss}] Pasted (Ctrl+V)
+[{1:yyyy-MM-dd HH:mm:ss}] Sent Down Arrow
+[{1:yyyy-MM-dd HH:mm:ss}] Sent Space
+[{1:yyyy-MM-dd HH:mm:ss}] Mouse moved to center and wiggled
+[{1:yyyy-MM-dd HH:mm:ss}] Mouse left button down
+[{1:yyyy-MM-dd HH:mm:ss}] Mouse left button up after 1.5s
+[{1:yyyy-MM-dd HH:mm:ss}] Sent ESC
+[{1:yyyy-MM-dd HH:mm:ss}] Sent ESC again
+[{1:yyyy-MM-dd HH:mm:ss}] Hotkey triggered (F11)
+[{1:yyyy-MM-dd HH:mm:ss}] Sent 1
+[{1:yyyy-MM-dd HH:mm:ss}] Sent a
+[{1:yyyy-MM-dd HH:mm:ss}] Sent Space
+[{1:yyyy-MM-dd HH:mm:ss}] Sent Left Arrow
+[{1:yyyy-MM-dd HH:mm:ss}] Sent Right Arrow
+[{1:yyyy-MM-dd HH:mm:ss}] Sent Space again
+[{1:yyyy-MM-dd HH:mm:ss}] Pasted (Ctrl+V)
+[{1:yyyy-MM-dd HH:mm:ss}] Sent Down Arrow
+[{1:yyyy-MM-dd HH:mm:ss}] Sent Space
+[{1:yyyy-MM-dd HH:mm:ss}] Mouse moved to center and wiggled
+[{1:yyyy-MM-dd HH:mm:ss}] Mouse left button down
+[{1:yyyy-MM-dd HH:mm:ss}] Mouse left button up after 1.5s
+[{1:yyyy-MM-dd HH:mm:ss}] Sent ESC
+[{1:yyyy-MM-dd HH:mm:ss}] Sent ESC again
+[{1:yyyy-MM-dd HH:mm:ss}] Hotkey triggered (F11)
+[{1:yyyy-MM-dd HH:mm:ss}] Sent 1
+[{1:yyyy-MM-dd HH:mm:ss}] Sent a
+[{1:yyyy-MM-dd HH:mm:ss}] Sent Space
+[{1:yyyy-MM-dd HH:mm:ss}] Sent Left Arrow
+[{1:yyyy-MM-dd HH:mm:ss}] Sent Right Arrow
+[{1:yyyy-MM-dd HH:mm:ss}] Sent Space again
+[{1:yyyy-MM-dd HH:mm:ss}] Pasted (Ctrl+V)
+[{1:yyyy-MM-dd HH:mm:ss}] Sent Down Arrow
+[{1:yyyy-MM-dd HH:mm:ss}] Sent Space
+[{1:yyyy-MM-dd HH:mm:ss}] Mouse moved to center and wiggled
+[{1:yyyy-MM-dd HH:mm:ss}] Mouse left button down
+[{1:yyyy-MM-dd HH:mm:ss}] Mouse left button up after 1.5s
+[{1:yyyy-MM-dd HH:mm:ss}] Sent ESC
+[{1:yyyy-MM-dd HH:mm:ss}] Sent ESC again

@@ -1,0 +1,16 @@
+faster-whisper
+whisperx
+pyannote.audio
+resampy
+soundfile
+pydub
+numpy
+scikit-learn
+sentence-transformers
+chromadb
+rich
+typer
+pyyaml
+jsonschema
+llama-cpp-python  # or vllm / transformers, pick one
+streamlit
