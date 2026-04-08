@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-04-08T20:23:36.350732",
+  "sessions": [
+    {
+      "number": 1,
+      "title": "Untitled Session",
+      "date_processed": "2026-04-08T20:36:43.102144",
+      "folder": "sessions\\session_001_20260408_untitled_session",
+      "summary": ""
+    },
+    {
+      "number": 2,
+      "title": "Untitled Session",
+      "date_processed": "2026-04-08T23:12:14.808503",
+      "folder": "sessions\\session_002_20260408_untitled_session",
+      "summary": ""
+    }
+  ],
+  "player_characters": [],
+  "npcs": [],
+  "locations": [],
+  "factions": [],
+  "quests": [],
+  "items": [],
+  "events": [],
+  "secrets": []
+}

@@ -1,0 +1,40 @@
+{
+  "campaign": "default",
+  "session_number": 2,
+  "title": "Untitled Session",
+  "processed_at": "2026-04-08T20:54:51.318447",
+  "duration_seconds": 886.719184,
+  "audio_files": [
+    "Curse of Strahd _ E1 Ch1_ _Wolves in the Mist_ _ DD 5e Adventure Actual Play Campaign.mp3"
+  ],
+  "transcription": {
+    "backend": "faster-whisper",
+    "model": "base",
+    "total_duration": 13828.1099375
+  },
+  "diarization": {
+    "enabled": false
+  },
+  "llm_backend": "fallback",
+  "options": {
+    "generate_journal": true,
+    "update_memory": true,
+    "export_wiki": true,
+    "diarization": false,
+    "vector": true,
+    "anchors": true
+  },
+  "entity_counts": {
+    "player_characters": 0,
+    "npcs": 0,
+    "locations": 0,
+    "factions": 0,
+    "quests": 0,
+    "items": 0,
+    "events": 0,
+    "secrets": 0
+  },
+  "reprocessed_at": "2026-04-08T23:12:28.933525",
+  "reprocess_duration_seconds": 14.154028,
+  "anchor_count": 0
+}

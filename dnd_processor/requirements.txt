@@ -1,0 +1,23 @@
+# Required
+faster-whisper>=1.0.0
+# openai-whisper>=20231117    # alternative
+
+# Optional: file duration display in GUI
+mutagen>=1.47.0
+
+# Optional LLM backends — install only what you use
+openai>=1.30.0                # OpenAI / OpenRouter / LM Studio / vLLM / Groq / Together
+anthropic>=0.40.0             # Anthropic Claude
+requests>=2.31.0              # Ollama (local)
+
+# Optional: speaker diarization with cross-session voice recognition
+# pyannote.audio is a heavy dep (pulls torch). Install only if you want this.
+pyannote.audio>=3.1.0  # optional, uncomment for diarization
+# torch>=2.0.0
+
+# Tkinter ships with Python on most platforms.
+# Debian/Ubuntu: sudo apt install python3-tk
+# macOS Homebrew: brew install python-tk
+
+# Optional: semantic search over session transcripts
+# chromadb>=0.4.0
